@@ -1,0 +1,12 @@
+[submodule "TheWildsClient"]
+	path = TheWildsClient
+	url = https://github.com/californiawz/TheWildsClient.git
+	branch = main
+[submodule "TheWildsDoc"]
+	path = TheWildsDoc
+	url = https://github.com/californiawz/TheWildsDoc.git
+	branch = main
+[submodule "TheWildsServer"]
+	path = TheWildsServer
+	url = https://github.com/californiawz/TheWildsServer.git
+	branch = main
